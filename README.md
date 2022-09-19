@@ -84,7 +84,7 @@ Client :
  </ul>
  
 
-* [![Next][Next.js]][Next-url]
+ 
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
