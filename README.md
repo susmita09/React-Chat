@@ -61,22 +61,26 @@ Client :
     <li>Node JS</li>
     <li>Express</li>
     <li>MongoDB</li>
+   <li>Socket.IO.</li>
  </ul>
  
 
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
- 
+#Features:
+This application provides users with the following features
+* Authentication using JWT Tokens
+* A Group Chat where multiple user can use the application to broadcast messages to everyone else.
+* User Can Add other User To a Room, Remove then from a room and leave the room
+* A Private Chat functionality where users can chat with other users privately
+* Real-time updates to the user list, conversation list, and conversation messages
+
+
+##Screenshorts
  
 
  
