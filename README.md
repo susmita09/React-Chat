@@ -44,7 +44,20 @@ This repo consists of a React Chat Application built with the MERN stack. This i
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Screenshorts
 
+ <ul>
+    <li><img src="https://res.cloudinary.com/dpp28yxat/image/upload/v1660720126/Screenshot_136_denal7.png" /></li>
+    <li>Chakra-Ui</li>
+    <li>CSS</li>
+ </ul>
+
+<!-- ![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720126/Screenshot_136_denal7.png)
+![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720163/Screenshot_137_cx9lbn.png)
+![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720164/Screenshot_138_nst4fq.png) -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
 
 ### Tech Stack
 
@@ -81,15 +94,7 @@ This application provides users with the following features
 * Real-time updates to the user list, conversation list, and conversation messages
 
 
-## Screenshorts
 
-
-![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720126/Screenshot_136_denal7.png)
-![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720163/Screenshot_137_cx9lbn.png)
-![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720164/Screenshot_138_nst4fq.png)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
- 
 
  
 
