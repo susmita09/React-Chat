@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+ 
 
 This repo consists of a React Chat Application built with the MERN stack. This is a full-stack chat application that can be up and running with just a few steps. Its frontend is built with Chakra UI running on top of React. The backend is built with Express.js and Node.js and MondoDB as the database. Real-time message broadcasting functionality is developed using Socket.IO.
 
@@ -46,10 +46,16 @@ This repo consists of a React Chat Application built with the MERN stack. This i
 
 ## Screenshorts
 
- <ul>
-    <li><img src="https://res.cloudinary.com/dpp28yxat/image/upload/v1660720126/Screenshot_136_denal7.png" /></li>
-    <li>Chakra-Ui</li>
-    <li>CSS</li>
+ <ul style={{display : "flex"}}>
+    <li>Group Chat</li>
+    <li><img src="https://res.cloudinary.com/dpp28yxat/image/upload/v1663613306/Screenshot_145_w08qaq.png" /></li>
+    <li>Search User</li>
+    <li><img src="https://res.cloudinary.com/dpp28yxat/image/upload/v1663613306/Screenshot_147_x3srlk.png" /></li>
+    <li><img src="https://res.cloudinary.com/dpp28yxat/image/upload/v1663613307/Screenshot_146_f3omkm.png" /></li>
+ <li>LogIn</li>
+     <li><img src="https://res.cloudinary.com/dpp28yxat/image/upload/v1663613320/Screenshot_149_gag3ry.png" /></li>
+ <li>Register</li>
+    <li><img src="https://res.cloudinary.com/dpp28yxat/image/upload/v1663613320/Screenshot_148_vdyfzr.png" /></li>
  </ul>
 
 <!-- ![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720126/Screenshot_136_denal7.png)
