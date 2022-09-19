@@ -71,16 +71,24 @@ Client :
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-#Features:
+## Features:
 This application provides users with the following features
 * Authentication using JWT Tokens
+* Search User By Name or Email
 * A Group Chat where multiple user can use the application to broadcast messages to everyone else.
 * User Can Add other User To a Room, Remove then from a room and leave the room
 * A Private Chat functionality where users can chat with other users privately
 * Real-time updates to the user list, conversation list, and conversation messages
 
 
-##Screenshorts
+## Screenshorts
+
+
+![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720126/Screenshot_136_denal7.png)
+![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720163/Screenshot_137_cx9lbn.png)
+![alt text](https://res.cloudinary.com/dpp28yxat/image/upload/v1660720164/Screenshot_138_nst4fq.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 
  
